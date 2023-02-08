@@ -16,7 +16,7 @@ __Environmental Setup to run the deployment__
 
 -  Initially clone the repository
 
-    git clone https://github.com/harriish/rocket-chat.git
+    git clone https://github.com/Zoro2712/rocket_chat.git
 
 -  Enter into the directory
 
