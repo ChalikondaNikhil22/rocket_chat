@@ -38,7 +38,7 @@ __Run the deployment__
 
 -  Again clone the repository and enter into the directory which should be done in the remote machine.
   
-   git clone https://github.com/harriish/rocket-chat.git
+   git clone https://github.com/Zoro2712/rocket_chat.git
    
    cd rocket-chat
    
